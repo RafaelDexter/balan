@@ -30,9 +30,37 @@ prefiro não comentar
 
 [Exercícios](https://docs.google.com/document/d/1CqDV20qQthqMhhiUXm3qVODgfOnh7DnG/edit)
 
+# 9
 
+[16 - Educação Financeira: Porcentagem II](https://docs.google.com/presentation/d/1aDw-_o7MXriXhjGAL2h724Wh7TYesm-kxMKLpyR29iQ/edit#slide=id.p2)
 
-# 1A
+[Exercícios](https://docs.google.com/document/d/1p0nWMuvWLk-oJV8i8OQmByWcijW_pmJL/edit)
+
+[17 - Nivelamento: razão e proporção | Páginas 33 a 35*](https://docs.google.com/presentation/d/1q-bYACvZiZcxynBhkH8Jkxy21fZirHGJ/edit#slide=id.g1df2928a00a_0_0)
+
+[Exercícios](https://docs.google.com/document/d/1T852R6VYShJlcacJQUDQpjEAhIFHN_T_/edit)
+
+[18 - Fatoração: fator comum em evidência I](https://docs.google.com/presentation/d/1BhBLINHhkaMGX5GUVhHzN-idCe72TKzv/edit#slide=id.p1)
+
+[Exercícios](https://docs.google.com/document/d/1J8H6_8-LClkZ3VcblG4S1GQPFLOT3ceM/edit)
+
+[19 - Fatoração: fator comum em evidência II](https://docs.google.com/presentation/d/1suhYJtA40ktKHnh6YJHpAEexq2g2_6fp/edit#slide=id.p1)
+
+[Exercícios](https://docs.google.com/document/d/1bQqJvbG0RixNk0if1DN5Nv7qIw4DatGq/edit)
+
+[20 - Fatoração por agrupamento](https://docs.google.com/presentation/d/1SMp2HuaGFw9tcWL98WvgHpxG47T_S7Fd/edit#slide=id.p1)
+
+[Exercícios](https://docs.google.com/document/d/1yTzAYIzRdisp8PLOdzqromtnX5DstmX9/edit)
+
+[36 - Fatoração da diferença de dois quadrado](https://docs.google.com/presentation/d/1OGBkWHFJW5sSrsJYUQOYe3OZJgx0jrJk/edit#slide=id.p1)
+
+[Exercícios](https://docs.google.com/document/d/1d4xA9UM9i2G40jDXtPzYr4t1iIlYKHms/edit)
+
+[]()
+
+# Ed. Financeira
+
+## 1A
 
 [8 - Impostos estaduais](https://docs.google.com/presentation/d/1QWowzymR5EtwvSOGc61Li5ZI3VSyyeqK/edit#slide=id.p2)
 
@@ -53,7 +81,7 @@ prefiro não comentar
 
 
 
-# 2A
+## 2A
 
 [7 - tributação](https://docs.google.com/presentation/d/1lQqYdTVDrhA7vbuhjLhxh4u0Y70pRu1oa4wmN7wErpQ/edit#slide=id.p19)
 
@@ -67,6 +95,6 @@ prefiro não comentar
 
 [Exercícios](https://docs.google.com/document/d/1U6OdfNgSTkropMIMQC9OIn9y-OjYPmxv/edit)
 
-[16 - Serviços públicos essenciais]([Serviços públicos essenciais](https://docs.google.com/presentation/d/1bupCh_i_k18CgZZcqqbOpy7RUI89T5HoCVEQtGwm2yI/edit#slide=id.p))
+[16 - Serviços públicos essenciais](https://docs.google.com/presentation/d/1bupCh_i_k18CgZZcqqbOpy7RUI89T5HoCVEQtGwm2yI/edit#slide=id.p)
 
 [Exercícios](https://docs.google.com/document/d/1VIDjHN4BEBF0eOs-PQUCZFHiNb2d4sL7/edit)
