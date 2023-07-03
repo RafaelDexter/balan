@@ -28,6 +28,4 @@
 [33](https://docs.google.com/presentation/d/1YUxY1kj1Tu5P09iTx5MGn5VwwqQkgcTf/edit#slide=id.p1)
 
 # 2A
-[36](https://docs.google.com/presentation/d/14K63GIUKXC2xKR-u-3PEhbXbR0X4ikUN/edit#slide=id.p12)
-
-[37](https://docs.google.com/presentation/d/14Gm1_GsCfIz0Cc1bFa-PJBOoUxzbN6YL/edit#slide=id.p1)
+[39](https://docs.google.com/presentation/d/1Z8NhhJL_a_Ui0Dq58dJRIYA2bM1HPNyN/edit#slide=id.p7)
